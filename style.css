@@ -54,3 +54,7 @@ background-color: rgb(255, 157, 10);
     height: 20%;
     background-color: rgb(128, 10, 255);
 }
+nav ul{
+    display: flex;
+    flex-direction: row;
+}
